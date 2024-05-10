@@ -1,15 +1,9 @@
 # ninja log v5
-2	1271	7361917526480912	SocialMediaApp_autogen/timestamp	c71524ca9e423c5a
-2	1271	7361917526480912	SocialMediaApp_autogen/mocs_compilation.cpp	c71524ca9e423c5a
-2	1271	7361917526480912	C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/timestamp	c71524ca9e423c5a
-2	1271	7361917526480912	C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/mocs_compilation.cpp	c71524ca9e423c5a
-1305	4273	7361917557789648	CMakeFiles/SocialMediaApp.dir/activity.cpp.obj	efd5b82a7f97bbfa
-1314	4363	7361917558628637	CMakeFiles/SocialMediaApp.dir/comment.cpp.obj	ca5a881eb6ca5b58
-1273	5619	7361917571549505	CMakeFiles/SocialMediaApp.dir/SocialMediaApp_autogen/mocs_compilation.cpp.obj	72f97a9c14a00502
-1296	5724	7361917572634478	CMakeFiles/SocialMediaApp.dir/main.cpp.obj	ef6609b1f965a266
-1288	5809	7361917573376181	CMakeFiles/SocialMediaApp.dir/socialmediaapp.cpp.obj	2367a4ee1769d350
-23	272	7361920091776548	SocialMediaApp_autogen/timestamp	c71524ca9e423c5a
-23	272	7361920091776548	SocialMediaApp_autogen/mocs_compilation.cpp	c71524ca9e423c5a
-23	272	7361920091776548	C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/timestamp	c71524ca9e423c5a
-23	272	7361920091776548	C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/mocs_compilation.cpp	c71524ca9e423c5a
-299	4764	7361920136763400	CMakeFiles/SocialMediaApp.dir/socialmediaapp.cpp.obj	2367a4ee1769d350
+1	789	7370566782957382	SocialMediaApp_autogen/timestamp	51a55d2e89837cf7
+1	789	7370566782957382	SocialMediaApp_autogen/mocs_compilation.cpp	51a55d2e89837cf7
+797	4688	7370566822699316	CMakeFiles/SocialMediaApp.dir/socialmediaapp.cpp.obj	81a0b83cca832f12
+4864	5141	7370566827137070	SocialMediaApp.exe	a3d916cfd7a9bdb9
+1	789	7370566782957382	C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/timestamp	51a55d2e89837cf7
+1	789	7370566782957382	C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/mocs_compilation.cpp	51a55d2e89837cf7
+790	4663	7370566822437370	CMakeFiles/SocialMediaApp.dir/SocialMediaApp_autogen/mocs_compilation.cpp.obj	fe4c416edd34ad50
+793	4864	7370566824372444	CMakeFiles/SocialMediaApp.dir/main.cpp.obj	92842b456f92f948

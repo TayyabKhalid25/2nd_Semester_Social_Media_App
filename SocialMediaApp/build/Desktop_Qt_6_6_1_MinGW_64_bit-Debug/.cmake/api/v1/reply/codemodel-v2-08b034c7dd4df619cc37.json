@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-39ea178818cbd2c2aa08.json",
+					"jsonFile" : "directory-.-Debug-7fbe558fab9542d26def.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "SocialMediaApp::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-SocialMediaApp-Debug-d77c4b2eac0aad8d3758.json",
+					"jsonFile" : "target-SocialMediaApp-Debug-f2f48bd48e3273bf9b62.json",
 					"name" : "SocialMediaApp",
 					"projectIndex" : 0
 				},
@@ -68,8 +68,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
-		"source" : "C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp"
+		"build" : "C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp"
 	},
 	"version" : 
 	{

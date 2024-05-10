@@ -1,17 +1,17 @@
 {
-	"BUILD_DIR" : "C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen",
-	"CMAKE_BINARY_DIR" : "C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
-	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
-	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp",
+	"BUILD_DIR" : "C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp",
 	"CMAKE_EXECUTABLE" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
 	"CMAKE_LIST_FILES" : 
 	[
-		"C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/CMakeLists.txt",
-		"C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake",
-		"C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/3.27.7/CMakeSystem.cmake",
+		"C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/CMakeLists.txt",
+		"C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake",
+		"C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/3.27.7/CMakeSystem.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake",
-		"C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake",
+		"C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake",
@@ -24,7 +24,7 @@
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake",
-		"C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/3.27.7/CMakeRCCompiler.cmake",
+		"C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/3.27.7/CMakeRCCompiler.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeRCInformation.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-windres.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
@@ -245,57 +245,57 @@
 		"C:/Qt/6.6.1/mingw_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginAdditionalTargetInfo.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/GNUInstallDirs.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp",
-	"DEP_FILE" : "C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/deps",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp",
+	"DEP_FILE" : "C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "SocialMediaApp_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/activity.h",
+			"C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/activity.h",
 			"MU",
 			"EWIEGA46WW/moc_activity.cpp",
 			null
 		],
 		[
-			"C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/comment.h",
+			"C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/comment.h",
 			"MU",
 			"EWIEGA46WW/moc_comment.cpp",
 			null
 		],
 		[
-			"C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/memory.h",
+			"C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/memory.h",
 			"MU",
 			"EWIEGA46WW/moc_memory.cpp",
 			null
 		],
 		[
-			"C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/page.h",
+			"C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/page.h",
 			"MU",
 			"EWIEGA46WW/moc_page.cpp",
 			null
 		],
 		[
-			"C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/post.h",
+			"C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/post.h",
 			"MU",
 			"EWIEGA46WW/moc_post.cpp",
 			null
 		],
 		[
-			"C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/socialmediaapp.h",
+			"C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/socialmediaapp.h",
 			"MU",
 			"EWIEGA46WW/moc_socialmediaapp.cpp",
 			null
 		],
 		[
-			"C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/user.h",
+			"C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/user.h",
 			"MU",
 			"EWIEGA46WW/moc_user.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/include",
-	"MOC_COMPILATION_FILE" : "C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"MINGW_HAS_SECURE_API=1",
@@ -350,56 +350,56 @@
 		"-c",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 2,
-	"PARSE_CACHE_FILE" : "C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/SocialMediaApp_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/SocialMediaApp_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "C:/Qt/6.6.1/mingw_64/./bin/moc.exe",
 	"QT_UIC_EXECUTABLE" : "C:/Qt/6.6.1/mingw_64/./bin/uic.exe",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 6,
-	"SETTINGS_FILE" : "C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/SocialMediaApp_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/SocialMediaApp_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/activity.cpp",
+			"C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/activity.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/comment.cpp",
+			"C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/comment.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/main.cpp",
+			"C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/main.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/memory.cpp",
+			"C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/memory.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/page.cpp",
+			"C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/page.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/post.cpp",
+			"C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/post.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/socialmediaapp.cpp",
+			"C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/socialmediaapp.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Hassaan/Desktop/GitHub/OOP-Social Media App/SocialMediaApp/user.cpp",
+			"C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/user.cpp",
 			"MU",
 			null
 		]

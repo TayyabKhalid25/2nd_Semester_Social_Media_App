@@ -1,5 +1,5 @@
-C:/Users/Hassaan/Desktop/GitHub/OOP-Social\ Media\ App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/EWIEGA46WW/moc_socialmediaapp.cpp: C:/Users/Hassaan/Desktop/GitHub/OOP-Social\ Media\ App/SocialMediaApp/socialmediaapp.h \
-  C:/Users/Hassaan/Desktop/GitHub/OOP-Social\ Media\ App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/moc_predefs.h \
+C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/EWIEGA46WW/moc_socialmediaapp.cpp: C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/socialmediaapp.h \
+  C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/moc_predefs.h \
   C:/Qt/6.6.1/mingw_64/include/QtCore/q20functional.h \
   C:/Qt/6.6.1/mingw_64/include/QtCore/q20memory.h \
   C:/Qt/6.6.1/mingw_64/include/QtCore/q20type_traits.h \

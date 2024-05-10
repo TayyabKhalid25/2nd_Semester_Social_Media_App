@@ -1,10 +1,8 @@
 # 2nd_Semester_Social_Media_App
-## Solo Project of university for making an app similar to facebook.
-
 Project Title: Social Media App
 
 Project Description:
-This is a Qt-based social network application written in C++. It provides a graphical user interface (GUI) for users to interact with a social network environment. Users can perform various actions such as viewing posts, liking posts, commenting on posts, and more.
+This is a Qt-based social network application written in C++. This is a solo Project for making an app similar to facebook. It provides a graphical user interface (GUI) for users to interact with a social network environment. Users can perform various actions such as viewing posts, liking posts, commenting on posts, and more.
 
 Features:
 Once the application is running, you will be presented with a graphical user interface. Use the provided buttons, menus, and input fields to interact with the social network environment. You can perform actions such as:

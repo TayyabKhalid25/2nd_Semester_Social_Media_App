@@ -7,7 +7,7 @@ class Page;  // Circular Dependency (Composition, Aggregation, etc.) causes a pr
 // To avoid this, Forward Declaration is required like above, but include header file wherever members need to be accessed, e.g in user.cpp
 
 
-class User
+class User final
 {
 private:
     int userID;
@@ -19,12 +19,15 @@ private:
 
 public:
     User(int, QString, int, int);
+    ~User();
     int& getUserID();
     QString& getName();
     int& getTotalFriends();
     User**& getFriends();
     int& getTotalLikedPages();
     Page**& getLikedPages();
+
 };
+
 
 #endif // USER_H

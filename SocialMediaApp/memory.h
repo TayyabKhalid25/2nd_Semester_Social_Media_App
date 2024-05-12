@@ -3,10 +3,17 @@
 
 #include "post.h"
 
-class Memory : public Post
+class Memory final : public Post
 {
+private:
+    Post* originalPost;
+
 public:
-    Memory();
+
+    Memory(Post*, int, User*, QString, Activity, int, int, QDate);
+    ~Memory();
+    Post*& getOriginalPost();
+
 };
 
 #endif // MEMORY_H

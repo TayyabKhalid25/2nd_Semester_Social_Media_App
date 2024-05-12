@@ -2,35 +2,38 @@
 #define POST_H
 
 #include <QString>
-#include <QDateTime>
+#include <QDate>
 #include "user.h"
 #include "activity.h"
 #include "comment.h"
 
 class Post
 {
-private:
-    int postID;
+protected:
+    int postID, totalLikes, totalComments;
     User* owner;
     QString description;
     Activity activity;
-    int totalLikes;
     User** likedBy;
-    QDateTime sharedDate;
-    int totalComments;
+    QDate sharedDate;
     Comment** comments;
 
 public:
-    Post();
+    Post(int, User*, QString, Activity, int, int, QDate);
+    virtual ~Post();
+
     int& getPostID();
     User*& getOwner();
     QString& getDescription();
     Activity& getActivity();
     int& getTotalLikes();
     User**& getLikedBy();
-    QDateTime& getSharedDate();
+    QDate& getSharedDate();
     int& getTotalComments();
     Comment**& getComments();
+
+    static void postToString(Post *post, QString &str);
+
 };
 
 #endif // POST_H

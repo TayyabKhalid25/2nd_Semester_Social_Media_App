@@ -5,18 +5,17 @@
 #include "user.h"
 #include "post.h"
 
-class Page
+class Page final
 {
 private:
-    int pageID;
+    int pageID, totalPosts, totalLikes;
     User* owner;
     QString title;
-    int totalPosts;
     Post** posts;
-    int totalLikes;
 
 public:
-    Page(int, QString, int, int);
+    Page(int, User*, QString, int, int);
+    ~Page();
     int& getPageID();
     User*& getOwner();
     QString& getTitle();

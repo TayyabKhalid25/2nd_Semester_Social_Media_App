@@ -73,6 +73,30 @@ build CMakeFiles/SocialMediaApp.dir/socialmediaapp.cpp.obj: CXX_COMPILER__Social
   OBJECT_DIR = CMakeFiles\SocialMediaApp.dir
   OBJECT_FILE_DIR = CMakeFiles\SocialMediaApp.dir
 
+build CMakeFiles/SocialMediaApp.dir/user.cpp.obj: CXX_COMPILER__SocialMediaApp_unscanned_Debug C$:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/user.cpp || cmake_object_order_depends_target_SocialMediaApp
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\SocialMediaApp.dir\user.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/include -isystem C:/Qt/6.6.1/mingw_64/include/QtCore -isystem C:/Qt/6.6.1/mingw_64/include -isystem C:/Qt/6.6.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.6.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.6.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\SocialMediaApp.dir
+  OBJECT_FILE_DIR = CMakeFiles\SocialMediaApp.dir
+
+build CMakeFiles/SocialMediaApp.dir/page.cpp.obj: CXX_COMPILER__SocialMediaApp_unscanned_Debug C$:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/page.cpp || cmake_object_order_depends_target_SocialMediaApp
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\SocialMediaApp.dir\page.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/include -isystem C:/Qt/6.6.1/mingw_64/include/QtCore -isystem C:/Qt/6.6.1/mingw_64/include -isystem C:/Qt/6.6.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.6.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.6.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\SocialMediaApp.dir
+  OBJECT_FILE_DIR = CMakeFiles\SocialMediaApp.dir
+
+build CMakeFiles/SocialMediaApp.dir/post.cpp.obj: CXX_COMPILER__SocialMediaApp_unscanned_Debug C$:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/post.cpp || cmake_object_order_depends_target_SocialMediaApp
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\SocialMediaApp.dir\post.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/include -isystem C:/Qt/6.6.1/mingw_64/include/QtCore -isystem C:/Qt/6.6.1/mingw_64/include -isystem C:/Qt/6.6.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.6.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.6.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\SocialMediaApp.dir
+  OBJECT_FILE_DIR = CMakeFiles\SocialMediaApp.dir
+
 build CMakeFiles/SocialMediaApp.dir/activity.cpp.obj: CXX_COMPILER__SocialMediaApp_unscanned_Debug C$:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/activity.cpp || cmake_object_order_depends_target_SocialMediaApp
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\SocialMediaApp.dir\activity.cpp.obj.d
@@ -97,30 +121,6 @@ build CMakeFiles/SocialMediaApp.dir/memory.cpp.obj: CXX_COMPILER__SocialMediaApp
   OBJECT_DIR = CMakeFiles\SocialMediaApp.dir
   OBJECT_FILE_DIR = CMakeFiles\SocialMediaApp.dir
 
-build CMakeFiles/SocialMediaApp.dir/page.cpp.obj: CXX_COMPILER__SocialMediaApp_unscanned_Debug C$:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/page.cpp || cmake_object_order_depends_target_SocialMediaApp
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  DEP_FILE = CMakeFiles\SocialMediaApp.dir\page.cpp.obj.d
-  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/include -isystem C:/Qt/6.6.1/mingw_64/include/QtCore -isystem C:/Qt/6.6.1/mingw_64/include -isystem C:/Qt/6.6.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.6.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.6.1/mingw_64/include/QtGui
-  OBJECT_DIR = CMakeFiles\SocialMediaApp.dir
-  OBJECT_FILE_DIR = CMakeFiles\SocialMediaApp.dir
-
-build CMakeFiles/SocialMediaApp.dir/post.cpp.obj: CXX_COMPILER__SocialMediaApp_unscanned_Debug C$:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/post.cpp || cmake_object_order_depends_target_SocialMediaApp
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  DEP_FILE = CMakeFiles\SocialMediaApp.dir\post.cpp.obj.d
-  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/include -isystem C:/Qt/6.6.1/mingw_64/include/QtCore -isystem C:/Qt/6.6.1/mingw_64/include -isystem C:/Qt/6.6.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.6.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.6.1/mingw_64/include/QtGui
-  OBJECT_DIR = CMakeFiles\SocialMediaApp.dir
-  OBJECT_FILE_DIR = CMakeFiles\SocialMediaApp.dir
-
-build CMakeFiles/SocialMediaApp.dir/user.cpp.obj: CXX_COMPILER__SocialMediaApp_unscanned_Debug C$:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/user.cpp || cmake_object_order_depends_target_SocialMediaApp
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  DEP_FILE = CMakeFiles\SocialMediaApp.dir\user.cpp.obj.d
-  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/build/Desktop_Qt_6_6_1_MinGW_64_bit-Debug/SocialMediaApp_autogen/include -isystem C:/Qt/6.6.1/mingw_64/include/QtCore -isystem C:/Qt/6.6.1/mingw_64/include -isystem C:/Qt/6.6.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.6.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.6.1/mingw_64/include/QtGui
-  OBJECT_DIR = CMakeFiles\SocialMediaApp.dir
-  OBJECT_FILE_DIR = CMakeFiles\SocialMediaApp.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target SocialMediaApp
@@ -129,7 +129,7 @@ build CMakeFiles/SocialMediaApp.dir/user.cpp.obj: CXX_COMPILER__SocialMediaApp_u
 #############################################
 # Link the executable SocialMediaApp.exe
 
-build SocialMediaApp.exe: CXX_EXECUTABLE_LINKER__SocialMediaApp_Debug CMakeFiles/SocialMediaApp.dir/SocialMediaApp_autogen/mocs_compilation.cpp.obj CMakeFiles/SocialMediaApp.dir/main.cpp.obj CMakeFiles/SocialMediaApp.dir/socialmediaapp.cpp.obj CMakeFiles/SocialMediaApp.dir/activity.cpp.obj CMakeFiles/SocialMediaApp.dir/comment.cpp.obj CMakeFiles/SocialMediaApp.dir/memory.cpp.obj CMakeFiles/SocialMediaApp.dir/page.cpp.obj CMakeFiles/SocialMediaApp.dir/post.cpp.obj CMakeFiles/SocialMediaApp.dir/user.cpp.obj | C$:/Qt/6.6.1/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.6.1/mingw_64/lib/libQt6Gui.a C$:/Qt/6.6.1/mingw_64/lib/libQt6Core.a C$:/Qt/6.6.1/mingw_64/lib/libQt6EntryPoint.a || SocialMediaApp_autogen SocialMediaApp_autogen_timestamp_deps
+build SocialMediaApp.exe: CXX_EXECUTABLE_LINKER__SocialMediaApp_Debug CMakeFiles/SocialMediaApp.dir/SocialMediaApp_autogen/mocs_compilation.cpp.obj CMakeFiles/SocialMediaApp.dir/main.cpp.obj CMakeFiles/SocialMediaApp.dir/socialmediaapp.cpp.obj CMakeFiles/SocialMediaApp.dir/user.cpp.obj CMakeFiles/SocialMediaApp.dir/page.cpp.obj CMakeFiles/SocialMediaApp.dir/post.cpp.obj CMakeFiles/SocialMediaApp.dir/activity.cpp.obj CMakeFiles/SocialMediaApp.dir/comment.cpp.obj CMakeFiles/SocialMediaApp.dir/memory.cpp.obj | C$:/Qt/6.6.1/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.6.1/mingw_64/lib/libQt6Gui.a C$:/Qt/6.6.1/mingw_64/lib/libQt6Core.a C$:/Qt/6.6.1/mingw_64/lib/libQt6EntryPoint.a || SocialMediaApp_autogen SocialMediaApp_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_FLAGS = -mwindows
   LINK_LIBRARIES = C:/Qt/6.6.1/mingw_64/lib/libQt6Widgets.a  C:/Qt/6.6.1/mingw_64/lib/libQt6Gui.a  C:/Qt/6.6.1/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lmingw32  C:/Qt/6.6.1/mingw_64/lib/libQt6EntryPoint.a  -lshell32  -ld3d11  -ldxgi  -ldxguid  -ld3d12  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32

@@ -29,6 +29,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         activity.h activity.cpp
         comment.h comment.cpp
         memory.h memory.cpp
+
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET SocialMediaApp APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

@@ -1,10 +1,15 @@
 #include "user.h"
 #include "page.h"
 
-User::User(int id, QString Name, int friendNum, int pages) : userID(id), name(Name), totalFriends(friendNum), totalLikedPages(pages)
+User::User(int id = 0, QString Name = "", int friendNum = 0, int pages = 0) : userID(id), name(Name), totalFriends(friendNum), totalLikedPages(pages)
 {
-    friends = 0;
-    likedPages = 0;
+    friends = new User*[friendNum];
+    likedPages = new Page*[pages];
+}
+User::~User()
+{
+    delete[] friends;
+    delete[] likedPages;
 }
 
 int& User::getUserID() { return userID; }
@@ -18,4 +23,3 @@ User**& User::getFriends() { return friends; }
 int& User::getTotalLikedPages() { return totalLikedPages; }
 
 Page**& User::getLikedPages() { return likedPages; }
-

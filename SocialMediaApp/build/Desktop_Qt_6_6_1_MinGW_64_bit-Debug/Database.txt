@@ -1,0 +1,168 @@
+20	12	12	1
+Amna Akram
+3	2	2	3	4	1	2
+Muhammad Ali
+3	2	1	5	6	2	3
+Waheed Khan
+2	1	1	7	1
+Burhan Tahir
+4	1	1	8	9	10	10
+Hassan Sohail
+1	2	2	9	10
+Saad Ali
+2	1	2	11	8
+Abdullah Nadeem
+3	4	3	11	12	1	2	5	9
+Nimra Batool
+2	1	4	11	1
+Abubakar Javed
+1	1	4	4
+Saad Sultan
+2	1	4	12	2
+Ahsan Ali
+3	1	6	7	8	1
+Ali Ahmed
+2	1	7	10	5
+Saad Ahmed
+2	1	14	15	3
+Usman Usman
+2	1	13	16	2
+Zaid Tariq
+2	1	13	16	1
+Abdullah Siddiqui
+3	1	14	15	17	1
+Saif Ullah
+1	1	16	1
+Hashir Baig
+1	1	19	1
+Usama Jawad
+1	1	18	7
+Haris Muneer
+1	1	1	1
+Food Fusion
+1	0	6
+Al Jazeera English
+2	0	5
+Allama Iqbal
+3	0	2
+Scholarships for International Students
+4	0	1
+Rumi Quotes
+5	0	2
+Dawn.com
+6	0	0
+People Of Pakistan
+7	0	1
+History
+8	0	1
+BBC News
+9	0	2
+CNN International
+10	0	2
+Birthday Cakes
+11	0	0
+M Ali Jinnah
+12	0	0
+
+3
+1
+14	11	2017
+OOP Project Started Yayy....
+1 excited
+1	2
+1
+1
+Best of Luck
+7
+Interesting
+
+3
+1		
+13	11	2017
+Life will be beautiful after exams
+2 Mids
+1	0
+7
+
+11
+0
+14	11	2017
+Waiting for Weekend
+2	3
+6	7
+6	Any plans for Get Together?
+7	Yes BBQ
+8	Lunch Buffet please
+
+12
+0
+14	11	2017
+Waiting for Result
+0	1
+7	Good Luck for your Result
+
+1
+1
+14	11	2017
+Try this at home...
+3 Kashmiri Chai (Pink Tea)
+4	3
+2	1	3	4
+1	Followers please try this recipe and give your feedback
+1	Yummy
+11	One pink tea for me
+
+2
+0
+14	11	2017
+Oil drilling in Alaska's indigenous communities is on the table again.
+0	0
+
+5
+0
+15	11	2017
+Be free of possessing things - Rumi
+2	1
+7	5
+12	Rumi is great
+
+7
+1
+14	11	2017
+Happy Birthday to my dear Mom
+4 a birthday
+3	1
+2	3	4
+3	Happy Birthday Aunty
+
+7
+1
+14	10	2017
+Happy Birthday to my dear Father
+4 a birthday
+2	1
+2	4
+11	Happy Birthday Uncle
+
+7
+1
+15	11	2015
+Got D in toughest subject... Thanks God I am Pass finally...
+4 Success
+2	1
+2	4
+11	Celebrations???
+
+1
+1
+10	11	2017
+Sunday Special Breakfast for our followers...
+3 Halwa Puri
+0	0
+
+20
+1
+10	10	2017
+Happy Birthday Ali Bhai
+4 a birthday
+0	0

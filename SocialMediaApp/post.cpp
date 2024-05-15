@@ -38,18 +38,18 @@ Comment**& Post::getComments() { return comments; }
 
 void Post::postToString(Post* post, QString& str)  // Convert Post into a displayable Text.
 {
-    str.append(QString("Post ID: %1\nAuthor: %2\nDescription: %3\nLikes: %4\nDate: %5\n").arg(post->getPostID()).arg(post->getOwner()->getName()).arg(post->getDescription())
+    str.append(QString("Post ID: %1\n---%2%3\n\"%4\"\nLikes: %5\nDate: %6\n").arg(post->getPostID()).arg(post->getOwner()->getName()).arg((post->getActivity().getType() ? " is " + post->getActivity().toString() : "" )).arg(post->getDescription())
                    .arg(post->getTotalLikes()).arg(post->getSharedDate().toString()));
-    if (post->getLikedBy()) {  // If people have liked post, display them.
+    if (post->getTotalLikes()) {  // If people have liked post, display them.
         str.append("Liked By:\n");
         for (int i = 0; i < post->getTotalLikes(); i++ ) {
             str.append(QString("\t%1\n").arg(post->getLikedBy()[i]->getName()));
         }
     }
-    if (post->getComments()) {  // If people have commented on post, display them.
+    if (post->getTotalComments()) {  // If people have commented on post, display them.
         str.append("Comments:\n");
         for (int i = 0; i < post->getTotalComments(); i++ ) {
-            str.append(QString("\t%1:\n\t\t%2\n").arg(post->getComments()[i]->getAuthor()->getName()).arg(post->getComments()[i]->getContent()));
+            str.append(QString("\t%1 wrote: \"%2\"\n").arg(post->getComments()[i]->getAuthor()->getName()).arg(post->getComments()[i]->getContent()));
         }
     }
     str.append("\n");

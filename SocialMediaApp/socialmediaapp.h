@@ -6,6 +6,7 @@
 #include <QMainWindow>
 #include <QFile>
 #include <QInputDialog>
+#include <QMessageBox>
 #include "user.h"
 #include "post.h"
 #include "page.h"
@@ -27,18 +28,18 @@ class SocialMediaApp final : public QMainWindow
 private:
     Ui::SocialMediaApp *ui;
     User* currentUser;
-    int totalUsers, totalPages, totalPosts, totalMemories;
+    int totalUsers, totalPages, totalPosts;
     User** users;
     Page** pages;
     Post** posts;
-    Memory** memories;
 
 public:
     SocialMediaApp(QWidget *parent = nullptr);
     ~SocialMediaApp();
     void loadData();  // filehandling to read
     void saveData();  // ... to write data
-    void setCurrentUser();
+    void closeTab(int index);
+    void setCurrentUser(int userID);
     void viewHome();
     void likePost();
     // void viewPostLikers(int postID);  // Incorporated into every display of post.

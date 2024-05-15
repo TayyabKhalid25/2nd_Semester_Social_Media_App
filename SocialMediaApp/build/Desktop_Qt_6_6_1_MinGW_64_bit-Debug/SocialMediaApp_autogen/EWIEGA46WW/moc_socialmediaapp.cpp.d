@@ -155,11 +155,13 @@ C:/Users/Hassaan/Desktop/GitHub/2nd_Semester_Social_Media_App/SocialMediaApp/bui
   C:/Qt/6.6.1/mingw_64/include/QtGui/qwindowdefs_win.h \
   C:/Qt/6.6.1/mingw_64/include/QtWidgets/QInputDialog \
   C:/Qt/6.6.1/mingw_64/include/QtWidgets/QMainWindow \
+  C:/Qt/6.6.1/mingw_64/include/QtWidgets/QMessageBox \
   C:/Qt/6.6.1/mingw_64/include/QtWidgets/qdialog.h \
   C:/Qt/6.6.1/mingw_64/include/QtWidgets/qframe.h \
   C:/Qt/6.6.1/mingw_64/include/QtWidgets/qinputdialog.h \
   C:/Qt/6.6.1/mingw_64/include/QtWidgets/qlineedit.h \
   C:/Qt/6.6.1/mingw_64/include/QtWidgets/qmainwindow.h \
+  C:/Qt/6.6.1/mingw_64/include/QtWidgets/qmessagebox.h \
   C:/Qt/6.6.1/mingw_64/include/QtWidgets/qsizepolicy.h \
   C:/Qt/6.6.1/mingw_64/include/QtWidgets/qtabwidget.h \
   C:/Qt/6.6.1/mingw_64/include/QtWidgets/qtwidgets-config.h \

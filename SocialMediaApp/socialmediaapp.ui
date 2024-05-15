@@ -337,7 +337,10 @@ color:white;
 }</string>
     </property>
     <property name="currentIndex">
-     <number>2</number>
+     <number>0</number>
+    </property>
+    <property name="documentMode">
+     <bool>true</bool>
     </property>
     <property name="tabsClosable">
      <bool>true</bool>

@@ -13,16 +13,16 @@ QString Activity::toString()  // Returns predetermined string against type with 
     QString str;
     switch (type) {
     case 1:
-        str = "Feeling " + value;
+        str = "feeling " + value;
         break;
     case 2:
-        str = "Thinking about " + value;
+        str = "thinking about " + value;
         break;
     case 3:
-        str = "Making " + value;
+        str = "making " + value;
         break;
     case 4:
-        str = "Celebrating " + value;
+        str = "celebrating " + value;
         break;
     default:
         str = "Invalid type of Activity..";
